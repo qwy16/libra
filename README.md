@@ -11,6 +11,8 @@
 
 Libra Core implements a decentralized, programmable database which provides a financial infrastructure that can empower billions of people.
 
+This is my research fork for Libra. Everything is deliveried as it is. I do it my way~
+
 ## Note to Developers
 * Libra Core is a prototype.
 * The APIs are constantly evolving and designed to demonstrate types of functionality. Expect substantial changes before the release.
