@@ -9,9 +9,12 @@
 [![License](https://img.shields.io/badge/license-Apache-green.svg)](LICENSE)
 [![codecov](https://codecov.io/gh/libra/libra/branch/master/graph/badge.svg)](https://codecov.io/gh/libra/libra)
 
-Libra Core implements a decentralized, programmable database which provides a financial infrastructure that can empower billions of people.
-
 This is my research fork for Libra. Everything is deliveried as it is. I do it my way~
+
+<br> Below are from Original libra branch
+===========================================================================
+
+Libra Core implements a decentralized, programmable database which provides a financial infrastructure that can empower billions of people.
 
 ## Note to Developers
 * Libra Core is a prototype.
